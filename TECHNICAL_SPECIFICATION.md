@@ -142,8 +142,10 @@
 
 ---
 
-### Приложение A: Структура проекта (пример)
+## Приложения
 
+### Приложение A: Структура проекта (пример)
+```
 laser_thermal_sim/
 ├── CMakeLists.txt
 ├── README.md
@@ -159,6 +161,7 @@ laser_thermal_sim/
 │ ├── data/ # Реализация работы с БД
 │ └── gui/ # Реализация интерфейса (MainWindow.cpp, ...)
 └── tests/ # Модульные и интеграционные тесты
+```
 
 ### Приложение B: Ссылки и ресурсы
 *   **GTK 4 Documentation:** [https://docs.gtk.org/gtk4/](https://docs.gtk.org/gtk4/)
